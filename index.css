@@ -1,0 +1,10 @@
+#contents {
+	position: relative;
+	width: 50px; /* 任意 */
+	height: 10px; /* 任意 */
+}
+.block {
+	position: absolute;
+	top: 10px; /* #contents内の上から何pxか */
+	left: px; /* #contents内の左から何pxか */
+}
